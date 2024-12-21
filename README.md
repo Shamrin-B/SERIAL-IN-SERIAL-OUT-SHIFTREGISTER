@@ -65,6 +65,12 @@ endmodule
 ![Screenshot (62)](https://github.com/user-attachments/assets/3abe6d63-6224-4e49-85b1-8f98c7f48a06)
 
 
+**TRUTH TABLE**
+
+![image](https://github.com/user-attachments/assets/522d6a7e-c32f-4da8-b877-3e7c4c9c484b)
+
+
 **RESULTS**
+
   SISO Shift Register using verilog and validating their functionality using their functional tables are studied and verified.
 
